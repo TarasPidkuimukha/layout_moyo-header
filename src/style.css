@@ -15,12 +15,12 @@ body {
   color: #000;
 }
 
-img {
+.logo__img {
   display: block;
   max-width: 100%;
 }
 
-header {
+.header {
   display: flex;
   align-items: center;
   justify-content: space-between;
